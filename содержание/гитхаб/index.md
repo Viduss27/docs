@@ -1,4 +1,5 @@
----
+git clone --bare https://github.com/MrAnanasik2020/idm_lp.git
+cd idm_lp.git
 title: GitHub
 redirect_from:
   - /articles
